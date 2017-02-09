@@ -16,4 +16,3 @@ start = time.time()
 test.square_list(b, n)
 end = time.time()
 print('My square took = {}'.format(end - start))
-
